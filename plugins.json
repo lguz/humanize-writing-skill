@@ -1,0 +1,11 @@
+{
+  "name": "humanize-writing",
+  "version": "1.0.0",
+  "description": "Rewrites AI-generated text to sound like a real human wrote it. 3-pass editing system that catches vocabulary, structural patterns, and tone tells.",
+  "skills": [
+    {
+      "name": "humanize-writing",
+      "description": "Rewrite or review any text to eliminate AI writing patterns and make it sound like a real human wrote it."
+    }
+  ]
+}
